@@ -7,7 +7,7 @@ Initial (One-Time) Setup:
 
 Open a terminal and enter the following command: "pip install -r requirements.txt".
 Download PostgreSQL, launch the application, and confirm that the server is running.
-Navigate to the 'utils' folder and execute 'twitter-users.ipynb'. Provide your system's username when prompted. Ensure that the file 'corona-out-3' is added to the 'utils' folder before running the file.
+Navigate to the 'utils' folder and execute 'twitter-users.ipynb'. Provide your system's username when prompted. Ensure that the dataset' is added to the 'utils' folder before running the file.
 Run 'tweets_to_mongoDB.ipynb' in the 'utils' folder to verify the connection to the MongoDB cluster.
 Running the API:
 
